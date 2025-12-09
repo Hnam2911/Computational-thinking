@@ -19,4 +19,7 @@ Lec03
 Buổi 5
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hnam2911/Computational-thinking/blob/main/buoi5.ipynb)
 
+Buổi 6
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hnam2911/Computational-thinking/blob/main/buoi6.ipynb)
+
 
