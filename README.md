@@ -22,4 +22,7 @@ Buổi 5
 Buổi 6
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hnam2911/Computational-thinking/blob/main/buoi6.ipynb)
 
+Buổi 7
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hnam2911/Computational-thinking/blob/main/buoi7.ipynb)
+
 
